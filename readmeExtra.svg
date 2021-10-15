@@ -1,0 +1,27 @@
+<svg fill="none" viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            .glow {
+                font-size: 5em;
+                color: #fff;
+                text-align: center;
+                -webkit-animation: glow 1s ease-in-out infinite alternate;
+                -moz-animation: glow 1s ease-in-out infinite alternate;
+                animation: glow 1s ease-in-out infinite alternate;
+            }
+
+            @-webkit-keyframes glow {
+            from {
+                text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 3px #e60073, 0 0 4px #e60073, 0 0 5px #e60073, 0 0 6px #e60073, 0 0 7px #e60073;
+            }
+            to {
+                text-shadow: 0 0 3px #fff, 0 0 5px #ff4da6, 0 0 6px #ff4da6, 0 0 7px #ff4da6, 0 0 8px #ff4da6, 0 0 9px #ff4da6, 0 0 10px #ff4da6;
+            }
+            </style>
+            <p class="glow">"I wish that I had a chocolate, I wish that I had a biscuit, mom WHY you
+                            don't buy one for me, why we don't have any?"
+            </p>
+        </div>
+    </foreignObject>
+</svg>
