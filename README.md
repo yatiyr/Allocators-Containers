@@ -14,6 +14,8 @@ as well :D
               margin: 1em 1em 1em 1em;
               text-align: center;
               text-justify: inter-word;
+              display: flex;
+              justify-content: center;
               ">
         <img src="readmeExtra.svg" width="400" height="400" alt="css-in-readme">
     </div>
